@@ -1,4 +1,4 @@
-# BBRF103 软件定义无线电接收器
+# BBRF103 SDR ThirdParty Documentation 
 
 ## 项目概述
 
